@@ -81,6 +81,8 @@ http://localhost:8501
 ## 📸 Screenshots (Add later)
 
 
+![Heart Disease App UI](screenshots/ui_home.png)
+
 ---
 
 ## 📌 Future Improvements
