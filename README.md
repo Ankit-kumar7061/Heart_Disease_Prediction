@@ -23,6 +23,7 @@ This project demonstrates:
 
 ## 📂 Project Folder Structure
 
+```
 Heart_Disease_Prediction/
 │── app.py
 │── knn_heart_model.pkl
@@ -30,6 +31,8 @@ Heart_Disease_Prediction/
 │── heart_columns.pkl
 │── HeartdiseaseFinal.ipynb
 │── README.md
+```
+
 
 
 ## 🧠 Machine Learning
